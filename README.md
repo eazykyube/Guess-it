@@ -8,3 +8,7 @@ It was implemented within the Developing Android Apps with Kotlin on Udacity, th
 
 https://github.com/udacity/andfun-kotlin-guess-it/tree/starter-code
 
+## Screenshot
+
+![](https://drive.google.com/uc?export=view&id=1_HqmW5vT46MwrwRAxNNcedV4mZyNj0bD)
+
